@@ -12,10 +12,10 @@ Your mission is to rendezvous with the Nyox neowarp ship and represent the Feder
 
 ## Crewmembers Present ##
 
-- [Captain Kalos Grax](../../characters/kalos-grax.md)
-- [Lt. Cmdr. Kessil](../../characters/kessil.md)
-- [Lt. (j.g.) Ussath](../../characters/ussath.md)
-- [Ensign Kotav Damak](../../characters/kotav-damak.md)
+- [Captain Kalos Grax](../../characters/kalos-grax)
+- [Lt. Cmdr. Kessil](../../characters/kessil)
+- [Lt. (j.g.) Ussath](../../characters/ussath)
+- [Ensign Kotav Damak](../../characters/kotav-damak)
 
 ## Captain's Log ##
 
